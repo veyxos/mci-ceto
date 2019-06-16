@@ -1,0 +1,17 @@
+{
+  "name": "ceto",
+  "version": "0.0.1",
+  "description": "Centrales Tool",
+  "main": "bin/app.js",
+  "author": "Mike Kühnapfel",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^12.0.8",
+    "@types/sqlite3": "^3.1.5",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "sqlite3": "^4.0.9"
+  }
+}
